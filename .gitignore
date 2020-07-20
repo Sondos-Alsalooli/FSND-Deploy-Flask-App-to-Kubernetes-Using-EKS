@@ -17,7 +17,9 @@ _mailinglist
 docs/_build/
 __pycache__
 .env_file
-.env_file
+iam-role-policy.json
+tmp/
+*Dockerfile*
 
 # Coverage reports
 htmlcov/
